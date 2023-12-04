@@ -40,3 +40,10 @@ python test.py  --mode test  --load_ckpt checkpoint
     Figure 2: vison of result.
     </em>
 </p>
+<p align="center">
+    <img src="imgs/vison_edge.png"/> <br />
+    <em> 
+    Figure 3: vison of edge segmentation.
+    </em>
+</p>
+
