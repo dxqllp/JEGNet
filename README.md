@@ -14,7 +14,7 @@
 ### 2.2. Framework Overview
 
 <p align="center">
-    <img src="imgs/framework-final-min.png"/> <br />
+    <img src="imgs/NETWORK.png"/> <br />
     <em> 
     Figure 1: Overview of the proposed JEGNet.
     </em>
