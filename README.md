@@ -11,7 +11,7 @@
 * skimage
 * PIL
 * numpy
-### 2.2. Framework Overview
+### 1. Framework Overview
 
 <p align="center">
     <img src="imgs/NETWORK.png"/> <br />
@@ -20,16 +20,23 @@
     </em>
 </p>
 
-####  1. Training
+#### 2. Training
 
 ```bash
 python train.py  --mode train  --dataset kvasir_SEG  
 --train_data_dir /path  --valid_data_dir  /path
 ```
 
-###  2. Inference
+###  3. Inference
 
 ```bash
 python test.py  --mode test  --load_ckpt checkpoint 
 --dataset kvasir_SEG    --test_data_dir  /path
 ```
+###  4. result
+<p align="center">
+    <img src="imgs/result1.png"/> <br />
+    <em> 
+    Figure 2: vison of result.
+    </em>
+</p>
