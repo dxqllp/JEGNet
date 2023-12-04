@@ -20,7 +20,7 @@
     </em>
 </p>
 
-#### 2. Training
+### 2. Training
 
 ```bash
 python train.py  --mode train  --dataset kvasir_SEG  
